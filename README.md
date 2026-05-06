@@ -432,16 +432,15 @@ The goal was to observe how the LED strip behaves at different frequency values.
 <h3>5 Hz</h3>
 <img src="images/Task2.2.B1.jpg" width="350">
 
-<h3>25 Hz</h3>
 <img src="images/Task2.2.B2.jpg" width="350">
 
-<h3>45 Hz</h3>
+<h3>25 Hz</h3>
 <img src="images/Task2.2.B3.jpg" width="350">
 
-<h3>100 Hz</h3>
+<h3>45 Hz</h3>
 <img src="images/Task2.2.B4.jpg" width="350">
 
-<h3>High Frequency Observation</h3>
+<h3>100 Hz</h3>
 <img src="images/Task2.2.B5.jpg" width="350">
 
 

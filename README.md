@@ -349,8 +349,17 @@ In this part of the experiment, I wanted to understand how changing the PWM duty
 
 ---
 
-## Circuit Setup
+## Duty Cycle Analysis
 
+<img src="images/Task2.2-A1.jpg" width="350">
+
+<img src="images/Task2.2-A2.jpg" width="350">
+
+<img src="images/Task2.2-A3.jpg" width="350">
+
+<img src="images/Task2.2-A4.jpg" width="350">
+
+<img src="images/Task2.2-A5.jpg" width="350">
 
 
 ---

@@ -26,7 +26,7 @@ At first, the buzzer did not produce any sound. After checking the circuit and c
 The photo below shows the buzzer test circuit on the breadboard.
 
 <p align="center">
-  <img src="images/buzzer-test.jpg" width="450">
+  <img src="image/buzzer-test.jpg" width="450">
 </p>
 
 The buzzer beeped 3 times based on the value defined in the code.
@@ -85,7 +85,7 @@ At first, the LCD screen did not work correctly. We checked the wiring multiple 
 The image below shows the first LCD setup where the screen was not working properly.
 
 <p align="center">
-  <img src="images/lcd-defective.jpg" width="450">
+  <img src="image/lcd-defective.jpg" width="450">
 </p>
 
 After troubleshooting the setup, we realized that the LCD itself was defective. We replaced it with another LCD module, and after reconnecting it, the display started working correctly.
@@ -93,7 +93,7 @@ After troubleshooting the setup, we realized that the LCD itself was defective. 
 The image below shows the working LCD after replacing the defective screen.
 
 <p align="center">
-  <img src="images/lcd-working.jpg" width="450">
+  <img src="image/lcd-working.jpg" width="450">
 </p>
 
 To test the display, we uploaded the LCD test code in the Arduino IDE. After the correct LCD was connected, the message appeared successfully on the screen. This confirmed that the Arduino was communicating correctly with the LCD through I2C.
@@ -134,7 +134,7 @@ Before using the LCD and RTC together, we first tested the I2C connection using 
 The image below shows the I2C scanner result in the Serial Monitor.
 
 <p align="center">
-  <img src="images/i2c-scanner.jpg" width="450">
+  <img src="image/i2c-scanner.jpg" width="450">
 </p>
 
 After finding the correct address, we initialized the LCD in the Arduino code using:
@@ -168,7 +168,7 @@ During testing, we changed the alarm time several times to verify that the syste
 The image below shows the RTC, LCD, buzzer, and button setup during the alarm clock test.
 
 <p align="center">
-  <img src="images/rtc-alarm-setup.jpg" width="450">
+  <img src="image/rtc-alarm-setup.jpg" width="450">
 </p>
 
 The video below shows the RTC alarm system running on the Arduino setup.
@@ -186,7 +186,7 @@ In this stage, we expanded the alarm clock by adding push button controls. The b
 We tested three different versions of the alarm control system.
 
 <p align="center">
-  <img src="images/final-alarm-setup.jpg" width="450">
+  <img src="image/final-alarm-setup.jpg" width="450">
 </p>
 
 ### First Version

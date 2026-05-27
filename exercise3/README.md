@@ -1,4 +1,10 @@
-Exercise3 
+# Digital Design & Fabrication – Exercise 3
+# Pneumatic Stress Pillow
+
+Student: Zahra Rajabi, Fateme Mazaherian  
+Course: Digital Design & Fabrication  
+University: Carl von Ossietzky University Oldenburg  
+Lecturers: Prof. Dr. Susanne Boll-Westermann, Mikołaj Woźniak, Tobias Lunte
 # Pneumatic Stress Pillow
 
 ## Components Overview

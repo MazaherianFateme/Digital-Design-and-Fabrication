@@ -267,8 +267,6 @@ After reconnecting the wiring correctly, the button worked as expected and the p
 
 ### Combined System
 
-![Combined System](images/final_system.jpg)
-
 [Watch Final Demo](videos/final_demo.mp4)
 
 ---

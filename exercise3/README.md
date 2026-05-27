@@ -175,3 +175,75 @@ This discussion helped us better understand:
 - MOSFET switching behavior
 - external power requirements
 - correct Arduino-to-MOSFET wiring
+
+
+
+## Part B – Sensor Interaction
+
+For the interaction part, we used a Force Sensitive Resistor (FSR). The idea was to make the stress pillow react to physical pressure from the user.
+
+The FSR was connected to the Arduino as an analog input. One side of the sensor was connected to power, and the other side was connected to analog pin A0. A 10K resistor was used as a pull-down resistor between A0 and GND. This setup allowed the Arduino to read changing analog values depending on how much pressure was applied to the sensor.
+
+Before combining the sensor with the pneumatic system, we first tested the FSR separately using the Serial Monitor. The test code printed the raw analog value and described the pressure level as no pressure, light touch, light squeeze, medium squeeze, or big squeeze.
+
+### Sensor Interaction Setup
+
+![Sensor Setup](images/sensor_setup.jpg)
+
+![Complete Interaction System](images/interaction_system.jpg)
+
+---
+
+### Sensor Test Code
+/* FSR simple testing sketch. 
+ 
+Connect one end of FSR to power, the other end to Analog 0.
+Then connect one end of a 10K resistor from Analog 0 to ground 
+ 
+For more information see www.ladyada.net/learn/sensors/fsr.html */
+ 
+int fsrPin = 0;
+int fsrReading;
+ 
+void setup(void) {
+  Serial.begin(9600);   
+}
+ 
+void loop(void) {
+  fsrReading = analogRead(fsrPin);  
+ 
+  Serial.print("Analog reading = ");
+  Serial.print(fsrReading);
+ 
+  if (fsrReading < 10) {
+    Serial.println(" - No pressure");
+  } else if (fsrReading < 200) {
+    Serial.println(" - Light touch");
+  } else if (fsrReading < 500) {
+    Serial.println(" - Light squeeze");
+  } else if (fsrReading < 800) {
+    Serial.println(" - Medium squeeze");
+  } else {
+    Serial.println(" - Big squeeze");
+  }
+
+  delay(1000);
+}
+
+---
+
+### Sensor Test Video
+
+[Watch Sensor Test Video](videos/sensor_test.mp4)
+
+---
+
+### Sensor Resource
+
+[Adafruit FSR Guide](https://learn.adafruit.com/force-sensitive-resistor-fsr/using-an-fsr)
+
+From this guide, we learned:
+- how to connect the FSR to Arduino
+- why a 10K pull-down resistor is needed
+- how to read analog pressure values from pin A0
+- how to use the Serial Monitor to test different pressure levels

@@ -247,3 +247,47 @@ From this guide, we learned:
 - why a 10K pull-down resistor is needed
 - how to read analog pressure values from pin A0
 - how to use the Serial Monitor to test different pressure levels
+
+
+## Combining Both Parts
+
+After testing the pneumatic system and the force-sensitive sensor separately, both parts were combined into one interactive setup.
+
+The Arduino continuously monitored the FSR sensor values and reacted to physical pressure applied by the user. Based on the sensor input, the pumps inflated the stress pillow through the pneumatic system.
+
+Later in the project, we decided to add an additional push button to improve the interaction. The idea was that:
+- the pillow inflates when pressure is applied to the FSR sensor,
+- and deflates when the red push button is pressed.
+
+To implement this behavior, the Arduino code was modified to include the push button input and additional control logic for deflation.
+
+During testing, the button initially did not work correctly even though the Serial Monitor values appeared normal. After checking the code and testing the system multiple times, we discovered that the issue was caused by incorrect wiring. The button GND connection had not been properly connected to the circuit ground.
+
+After reconnecting the wiring correctly, the button worked as expected and the pillow could successfully inflate and deflate through two different user interactions.
+
+### Combined System
+
+![Combined System](images/final_system.jpg)
+
+[Watch Final Demo](videos/final_demo.mp4)
+
+---
+
+## Problems & Solutions
+
+During the project, several technical challenges occurred during assembly and testing.
+
+Some of the main issues included:
+- incorrect wiring connections
+- unstable airflow direction
+- confusion with valve ports
+- sensor sensitivity adjustments
+- debugging MOSFET connections
+- button wiring issues
+
+One of the main debugging challenges happened after adding the push button interaction. Although the Serial Monitor outputs appeared correct, the button still did not respond properly. After checking the circuit multiple times, the issue was traced back to an incorrect GND connection in the wiring setup.
+
+Most of the problems were solved by testing each component separately, checking the wiring step by step, and adjusting the Arduino code and pneumatic tubing during debugging.
+
+The LED indicators on the MOSFET modules were especially useful during troubleshooting because they helped verify whether the Arduino signals were working correctly.
+

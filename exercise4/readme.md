@@ -141,10 +141,6 @@ The illuminated structure was transformed into a customizable display area that 
 
 The final design evolved from a simple illuminated LED patch into a personalizable light patch. Users can place their own image inside the display area and attach the patch to clothing, backpacks, tote bags, jackets, or other textile accessories.
 
-<p align="center">
-  <img src="images/10_final_result.jpg" width="450">
-</p>
-
 ---
 
 ## What I Learned

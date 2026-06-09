@@ -70,8 +70,9 @@ All LEDs were arranged so that their positive terminals faced outward while thei
 Maintaining a clear separation between the positive and negative conductive paths was important to ensure proper current flow through the circuit and to prevent unintended electrical contact between the connections.
 
 <p align="center">
-  <img src="images/04_led_placement.jpg" width="450">
+  <img src="images/05_sewing_process.jpg" width="450">
 </p>
+
 
 ---
 
@@ -86,7 +87,7 @@ Since conductive thread has a higher electrical resistance than traditional wire
 Because conductive thread is relatively expensive, limiting its use to the necessary conductive paths helped reduce material consumption while maintaining reliable electrical connections.
 
 <p align="center">
-  <img src="images/05_sewing_process.jpg" width="450">
+  <img src="images/04_led_placement.jpg" width="450">
 </p>
 
 ---

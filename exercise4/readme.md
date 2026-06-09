@@ -22,7 +22,7 @@ The patch allows users to display a photograph or image that is meaningful to th
 The final artifact combines textile crafting, basic electronics, and personal customization in a wearable form.
 
 <p align="center">
-  <img src="images/10_final_result.jpg" width="450">
+  <img src="images/finalLook.jpg" width="450">
 </p>
 
 ---

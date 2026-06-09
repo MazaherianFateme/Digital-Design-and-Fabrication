@@ -96,10 +96,6 @@ Because conductive thread is relatively expensive, limiting its use to the neces
 
 After sewing the circuit, I tested the connections and checked whether the LEDs would light up.
 
-<p align="center">
-  <img src="images/06_testing.jpg" width="450">
-</p>
-
 Initially, the LEDs did not work correctly. I suspected loose stitches, poor electrical contact, broken conductive paths, or battery-related issues.
 
 To investigate the problem:
@@ -114,7 +110,7 @@ Eventually, it was discovered that the battery holder itself was faulty. After r
 This experience highlighted the importance of testing every component individually during troubleshooting.
 
 <p align="center">
-  <img src="images/07_debugging.jpg" width="450">
+  <img src="images/06_testing.jpg" width="450">
 </p>
 
 ---

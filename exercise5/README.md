@@ -87,13 +87,5 @@ After the engraving was finished, the machine followed the thin outer border and
 <h2>Result and Reflection</h2>
 
 <p>
-The final result was close to my original design. The gold acrylic made the card look more professional, and the simple layout helped keep the information clear. The card includes my name, professional title, email address, GitHub username, and technical skills without looking too crowded.
-</p>
-
-<p>
-Before this project, I mainly focused on the visual design. However, I realized that preparing the file correctly is just as important as the design itself. Small technical details, such as converting text into objects, checking the document settings, and especially defining the cutting border with a stroke width of 0.001, can have a significant impact on the final result.
-</p>
-
-<p>
-I also learned that careful file preparation helps avoid unnecessary material waste. During the laser cutting session, some students were in a hurry to finish their work and did not pay close attention to the cutting border settings. As a result, problems could occur during the cutting process, leading to mistakes and wasted material. This experience showed me that spending a few extra minutes checking the file before cutting is often more efficient than repeating the fabrication process later.
+Overall, this project helped me better understand the complete process of digital fabrication, from preparing a design file to producing a physical object. One of the most valuable lessons I learned was that careful file preparation is just as important as the design itself. Spending a few extra minutes checking the file and machine settings can prevent mistakes and reduce unnecessary material waste. This experience gave me a better understanding of how small technical details can affect the final fabrication process.
 </p>

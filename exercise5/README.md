@@ -38,11 +38,11 @@ The border around the card was the most important part for cutting. This line wa
 </p>
 
 <p align="center">
-  <img src="images/withoutBorderSetting.jpg" width="450">
+  <img src="images/withoutBorderSetting.jpg" width="500">
 </p>
 
 <p align="center">
-  <img src="images/pdfSetup.jpg" width="450">
+  <img src="images/pdfSetup.jpg" width="500">
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@ The border around the card was the most important part for cutting. This line wa
 
 <p align="center">
   <img src="images/withoutBorderSetting.jpg" width="280" style="margin:0 15px;">
-  <img src="images/pdfSetup.jpg" width="280" style="margin:0 15px;">
+  <img src="images/pdfSetup.jpg" width="280" style="margin:0 18px;">
 </p>
 
 <h2>Material and Machine Setup</h2>

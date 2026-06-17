@@ -57,12 +57,14 @@ The material I used was gold acrylic. After finishing the SVG file, we exported 
 We also measured the thickness of the acrylic using a digital caliper. The thickness was about 1.42 mm. This measurement was important because the laser cutter settings, such as speed and power, depend on the thickness and type of material.
 </p>
 
-<figure style="text-align:center;">
+
+<p align="center">
+  <img src="images/pdfFile.jpg" width="450">
+</p>
+
+<p align="center">
   <img src="images/thicknessMeasurement.jpg" width="450">
-  <figcaption>
-    Figure 3. Measuring the acrylic thickness with a digital caliper.
-  </figcaption>
-</figure>
+</p>
 
 <p>
 After checking the file and the material, we transferred the PDF file to the laser cutter computer using a USB flash drive. Then we checked the laser cutter settings before starting the job.

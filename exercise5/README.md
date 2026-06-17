@@ -68,6 +68,9 @@ Before starting the cutting process, the thickness of the acrylic sheet was meas
 <p>
 After checking the file and the material, we transferred the PDF file to the laser cutter computer using a USB flash drive. Then we checked the laser cutter settings before starting the job.
 </p>
+<p align="center">
+  <img src="images/lasercuttersetting.jpg" width="450">
+</p>
 
 <h2>Laser Engraving and Cutting Process</h2>
 

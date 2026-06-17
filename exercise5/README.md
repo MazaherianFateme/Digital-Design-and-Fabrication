@@ -37,12 +37,18 @@ After the design was finished, all text and shapes were converted into objects. 
 The border around the card was the most important part for cutting. This line was used as the cutting path. In Inkscape, we changed the stroke width of this border to 0.001. The line was almost invisible inside Inkscape, but it was still visible in the exported PDF file. This allowed the laser cutter software to recognize it as a cutting line.
 </p>
 
-<figure style="text-align:center;">
+<p align="center">
+  <img src="images/pdfSetupwithoutBorderSetting.jpg" width="450">
+</p>
+
+<p align="center">
   <img src="images/pdfSetup.jpg" width="450">
-  <figcaption>
-    Figure 2. Checking the PDF file before sending it to the laser cutter.
-  </figcaption>
-</figure>
+</p>
+
+<p align="center">
+  <img src="images/pdfSetupwithoutBorderSetting.jpg" width="280" style="margin-right:30px;">
+  <img src="images/pdfSetup.jpg" width="280">
+</p>
 
 <h2>Material and Machine Setup</h2>
 

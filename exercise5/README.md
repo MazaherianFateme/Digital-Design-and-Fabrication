@@ -78,9 +78,7 @@ After checking the file and the material, we transferred the PDF file to the las
 The laser cutter first engraved the text and graphic elements onto the surface of the gold acrylic. The database icon, circuit-like lines, contact information, and other details became visible on the material. Because the acrylic was gold, the engraved parts created a nice contrast and the text was easy to read.
 </p>
 
-[Watch the laser engraving and cutting process video]  <source src="videos/lasercutterProcess.mp4" type="video/mp4">
-
-[Watch the laser engraving and cutting process video](videos/lasercutterProcess%202.mp4)
+[Watch the laser engraving and cutting process video](videos/lasercutterProcess.mp4)
 <p>
  
 After the engraving was finished, the machine followed the thin outer border and cut the card out of the acrylic sheet. This created the final shape of the business card.

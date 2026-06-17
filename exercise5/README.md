@@ -38,7 +38,7 @@ The border around the card was the most important part for cutting. This line wa
 </p>
 
 <p align="center">
-  <img src="images/pdfSetupwithoutBorderSetting.jpg" width="450">
+  <img src="images/withoutBorderSetting.jpg" width="450">
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ The border around the card was the most important part for cutting. This line wa
 </p>
 
 <p align="center">
-  <img src="images/pdfSetupwithoutBorderSetting.jpg" width="280" style="margin-right:30px;">
+  <img src="images/withoutBorderSetting.jpg." width="280" style="margin-right:30px;">
   <img src="images/pdfSetup.jpg" width="280">
 </p>
 

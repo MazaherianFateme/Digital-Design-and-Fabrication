@@ -46,20 +46,19 @@ The border around the card was the most important part for cutting. This line wa
 </p>
 
 
-
 <h2>Material and Machine Setup</h2>
 
 <p>
-The material I used was gold acrylic. After finishing the SVG file, we exported it as a PDF. Before cutting, we checked the size of the acrylic sheet to make sure the design would fit correctly on the material. I placed the business card design in the upper-left corner of the page so that it matched the position of the material inside the laser cutter.
+The material used for this project was gold acrylic. After completing the SVG design, the file was exported as a PDF. Before sending it to the laser cutter, I checked the PDF file to make sure that all elements were displayed correctly and that the cutting border was recognized properly. The business card design was positioned in the upper-left corner of the page to match the placement of the material inside the machine.
 </p>
-
-<p>
-We also measured the thickness of the acrylic using a digital caliper. The thickness was about 1.42 mm. This measurement was important because the laser cutter settings, such as speed and power, depend on the thickness and type of material.
-</p>
-
 
 <p align="center">
   <img src="images/pdfFile.jpg" width="450">
+</p>
+
+
+<p>
+Before starting the cutting process, the thickness of the acrylic sheet was measured using a digital caliper. The measured thickness was approximately 1.42 mm. This value was important because the laser cutter settings, such as power and speed, depend on the material thickness.
 </p>
 
 <p align="center">

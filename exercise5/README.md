@@ -46,8 +46,13 @@ The border around the card was the most important part for cutting. This line wa
 </p>
 
 <p align="center">
-  <img src="images/withoutBorderSetting.jpg." width="280" style="margin-right:30px;">
+  <img src="images/withoutBorderSetting.jpg" width="280" style="margin-right:30px;">
   <img src="images/pdfSetup.jpg" width="280">
+</p>
+
+<p align="center">
+  <img src="images/withoutBorderSetting.jpg" width="280" style="margin:0 15px;">
+  <img src="images/pdfSetup.jpg" width="280" style="margin:0 15px;">
 </p>
 
 <h2>Material and Machine Setup</h2>

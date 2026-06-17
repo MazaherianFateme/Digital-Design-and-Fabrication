@@ -38,11 +38,11 @@ The border around the card was the most important part for cutting. This line wa
 </p>
 
 <p align="center">
-  <img src="images/withoutBorderSetting.jpg" width="500">
+  <img src="images/withoutBorderSetting.jpg" width="600">
 </p>
 
 <p align="center">
-  <img src="images/pdfSetup.jpg" width="500">
+  <img src="images/pdfSetup.jpg" width="600">
 </p>
 
 

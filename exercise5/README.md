@@ -19,12 +19,9 @@ For this exercise, I designed and made my own business card using laser cutting 
 The final card was made from gold acrylic. I chose this material because it gives the card a more elegant and professional look. During this project, I learned how to prepare a vector file for laser cutting, how to adjust the document settings, how to work with cutting lines, and how important the material thickness is for the laser cutter settings.
 </p>
 
-<figure style="text-align:center;">
+ <p align="center">
   <img src="images/finalLook.jpg" width="450">
-  <figcaption>
-    Figure 1. Final engraved business card made from gold acrylic.
-  </figcaption>
-</figure>
+</p>
 
 <h2>Preparing the Design File</h2>
 

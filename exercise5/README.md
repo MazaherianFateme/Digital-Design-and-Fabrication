@@ -80,12 +80,7 @@ The laser cutter first engraved the text and graphic elements onto the surface o
 
 [Watch the laser engraving and cutting process video]  <source src="videos/lasercutterProcess.mp4" type="video/mp4">
 
-
-
-<video width="600" controls>
-  <source src="videos/lasercutterProcess.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the laser engraving and cutting process video](videos/lasercutterProcess%202.mp4)
 <p>
  
 After the engraving was finished, the machine followed the thin outer border and cut the card out of the acrylic sheet. This created the final shape of the business card.

@@ -26,10 +26,10 @@ The course included three modules:
   <li><strong>Introduction to Part Studios</strong> </li>
 </ul>
 
-<img src="DDDOnlineCertificates 02.png" alt="Required Onshape online courses" width="700">
+<img src="DDDOnlinceCertificates 02.png" alt="Required Onshape online courses" width="700">
 
 
-<img src="DDDOnlineCertificates.png" alt="Completed Onshape course modules" width="700">
+<img src="DDDOnlinceCertificates.png" alt="Completed Onshape course modules" width="700">
 
 
 

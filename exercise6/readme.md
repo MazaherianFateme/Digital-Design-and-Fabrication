@@ -32,7 +32,4 @@ The course included three modules:
 <img src="DDDOnlinceCertificates.png" alt="Completed Onshape course modules" width="700">
 
 
-
-Completing these tutorials provided the basic knowledge required before starting the Digital Design
-&amp; Fabrication assignments.
 </p>

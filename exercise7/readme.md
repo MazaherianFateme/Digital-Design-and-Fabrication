@@ -34,7 +34,6 @@ I wanted to create something meaningful that I could later paint and give to her
 </p>
 
 <img src="ideaPattern.png" alt="Reference idea for a wooden flower candle holder">
-<p class="caption">Figure 1. Reference image used as inspiration for the flower-shaped candle holder.</p>
 
 <hr>
 
@@ -65,7 +64,6 @@ At this stage, the petals were not perfectly identical because everything was dr
 </p>
 
 <img src="drawing.png" alt="First draft of the flower-shaped candle holder">
-<p class="caption">Figure 2. First draft of the flower outline and the central candle opening.</p>
 
 <p>
 To improve the appearance, I edited the outline using the Node Tool.
@@ -88,7 +86,6 @@ It also reduced the amount of manual editing required.
 </p>
 
 <img src="brakingOnePetal.png" alt="Separating and copying one petal in Inkscape">
-<p class="caption">Figure 3. Separating one petal from the original path before duplicating it around the centre.</p>
 
 <p>
 To verify that the design could be manufactured, I created a red circle with a diameter of <strong>6 mm</strong>.
@@ -101,7 +98,6 @@ I also set the outline stroke width to <strong>1 mm</strong> so that the cutting
 </p>
 
 <img src="checkingSize.png" alt="Checking the cutting clearance with a 6 mm red circle">
-<p class="caption">Figure 4. The red 6 mm circle was used to check the clearance between petals.</p>
 
 <hr>
 
@@ -118,7 +114,6 @@ The circle was positioned exactly at the centre of the flower to ensure symmetry
 </p>
 
 <img src="result.png" alt="Final flower-shaped tea light candle holder design">
-<p class="caption">Figure 5. Final flower-shaped tea light candle holder design.</p>
 
 <hr>
 

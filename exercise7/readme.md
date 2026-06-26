@@ -15,7 +15,7 @@
 
 <hr>
 
-<h2>1. Introduction</h2>
+<h2>Introduction</h2>
 
 <p>
 For this exercise, I designed a wooden tea light candle holder using Inkscape.
@@ -25,7 +25,7 @@ I wanted the final design to be decorative while remaining simple enough to manu
 
 <hr>
 
-<h2>2. Idea and Inspiration</h2>
+<h2>Idea and Inspiration</h2>
 
 <p>
 The main inspiration for my design came from a decorative wooden mandala-style candle holder.
@@ -37,7 +37,7 @@ I wanted to create something meaningful that I could later paint and give to her
 
 <hr>
 
-<h2>3. Document Setup</h2>
+<h2>Document Setup</h2>
 
 <p>
 I created a new document in Inkscape and changed the document units to millimetres.
@@ -55,7 +55,7 @@ Working with real dimensions was important because the design would later be man
 
 <hr>
 
-<h2>4. Creating the Main Shape</h2>
+<h2>Creating the Main Shape</h2>
 
 <p>
 I started by drawing a simple flower outline using the Pencil Tool.
@@ -72,7 +72,7 @@ By moving and adjusting the nodes, I obtained smoother curves and a cleaner flow
 
 <hr>
 
-<h2>5. Refining the Design</h2>
+<h2>Refining the Design</h2>
 
 <p>
 After creating one clean petal, I copied and repeated it around the centre of the design.
@@ -101,7 +101,7 @@ I also set the outline stroke width to <strong>1 mm</strong> so that the cutting
 
 <hr>
 
-<h2>6. Adding the Candle Hole</h2>
+<h2>Adding the Candle Hole</h2>
 
 <p>
 I created the candle opening using the Ellipse Tool.
@@ -117,7 +117,7 @@ The circle was positioned exactly at the centre of the flower to ensure symmetry
 
 <hr>
 
-<h2>7. What I Found Important</h2>
+<h2>What I Found Important</h2>
 
 <p>
 This exercise taught me that it is very important to consider the cutter diameter while designing.
@@ -131,7 +131,7 @@ By editing one petal carefully and copying it around the design, I achieved a mu
 
 <hr>
 
-<h2>8. Conclusion</h2>
+<h2>Conclusion</h2>
 
 <p>
 This exercise helped me understand the complete workflow of preparing a vector design for CNC milling using Inkscape.
@@ -139,9 +139,6 @@ I learned how to create clean vector paths, edit shapes using the Node Tool, dup
 The final result is a flower-inspired tea light candle holder that is both decorative and suitable for CNC milling.
 </p>
 
-<p style="text-align:center;">
-<em>Prepared as part of the CNC Milling Exercise using Inkscape.</em>
-</p>
 
 </div>
 </body>

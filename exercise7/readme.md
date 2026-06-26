@@ -1,46 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Designing a Wooden Tea Light Candle Holder</title>
 
-<style>
-body{
-    font-family: Arial, Helvetica, sans-serif;
-    max-width: 900px;
-    margin: auto;
-    padding: 40px;
-    line-height: 1.7;
-    background: #f5f5f5;
-}
-
-.container{
-    background: white;
-    padding: 40px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0,0,0,.15);
-}
-
-h1, h2{
-    color: #3d2f23;
-}
-
-img{
-    display: block;
-    margin: 20px auto;
-    max-width: 700px;
-    width: 100%;
-    border: 1px solid #ccc;
-    border-radius: 8px;
-}
-
-.caption{
-    text-align: center;
-    font-style: italic;
-    color: #666;
-    margin-top: -8px;
-    margin-bottom: 30px;
-}
 </style>
 </head>
 

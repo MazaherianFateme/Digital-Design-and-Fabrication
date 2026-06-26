@@ -63,7 +63,7 @@ Then I created the circular opening in the centre where the tea light candle wou
 At this stage, the petals were not perfectly identical because everything was drawn manually.
 </p>
 
-<img src="drawing.png" alt="First draft of the flower-shaped candle holder">
+<img src="drawing .png" alt="First draft of the flower-shaped candle holder">
 
 <p>
 To improve the appearance, I edited the outline using the Node Tool.
@@ -113,7 +113,7 @@ I then set its dimensions to <strong>39.5 mm × 39.5 mm</strong>, which matches 
 The circle was positioned exactly at the centre of the flower to ensure symmetry and provide sufficient material around the candle opening.
 </p>
 
-<img src="result.png" alt="Final flower-shaped tea light candle holder design">
+<img src="result.jpg" alt="Final flower-shaped tea light candle holder design">
 
 <hr>
 

@@ -33,7 +33,9 @@ I chose this flower pattern because it resembles a lotus flower, which is my mot
 I wanted to create something meaningful that I could later paint and give to her as a handmade gift.
 </p>
 
-<img src="ideaPattern.png" alt="Reference idea for a wooden flower candle holder">
+ <p align="center">
+  <img src="ideaPattern.png" width="450">
+</p>
 
 <hr>
 
@@ -63,7 +65,10 @@ Then I created the circular opening in the centre where the tea light candle wou
 At this stage, the petals were not perfectly identical because everything was drawn manually.
 </p>
 
-<img src="drawing.png" alt="First draft of the flower-shaped candle holder">
+ <p align="center">
+  <img src="drawing.png" width="450">
+</p>
+
 
 <p>
 To improve the appearance, I edited the outline using the Node Tool.
@@ -85,7 +90,9 @@ Using this method ensured that every petal had exactly the same shape, resulting
 It also reduced the amount of manual editing required.
 </p>
 
-<img src="brakingOnePetal.png" alt="Separating and copying one petal in Inkscape">
+ <p align="center">
+  <img src="brakingOnePetal.png" width="450">
+</p>
 
 <p>
 To verify that the design could be manufactured, I created a red circle with a diameter of <strong>6 mm</strong>.
@@ -97,7 +104,9 @@ If the circle could fit between two petals, there would be sufficient space for 
 I also set the outline stroke width to <strong>1 mm</strong> so that the cutting path was clearly visible before exporting the SVG file.
 </p>
 
-<img src="checkingSize.png" alt="Checking the cutting clearance with a 6 mm red circle">
+<p align="center">
+  <img src="checkingSize.png" width="450">
+</p>
 
 <hr>
 
@@ -113,7 +122,10 @@ I then set its dimensions to <strong>39.5 mm × 39.5 mm</strong>, which matches 
 The circle was positioned exactly at the centre of the flower to ensure symmetry and provide sufficient material around the candle opening.
 </p>
 
-<img src="result.png" alt="Final flower-shaped tea light candle holder design">
+<p align="center">
+  <img src="result.png" width="450">
+</p>
+
 
 <hr>
 

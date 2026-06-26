@@ -1,4 +1,4 @@
-<h1>Digital Design &amp; Fabrication – Exercise 7</h1>
+<h1>Digital Design &amp; Fabrication – Exercise 6</h1>
 
 <h2>Introduction to Onshape CAD</h2>
 

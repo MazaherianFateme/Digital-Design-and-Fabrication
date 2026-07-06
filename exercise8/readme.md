@@ -50,184 +50,50 @@ For the decorative part, I used a small house shape and added the word **“Hope
 
 ---
 
-## Starting the CAD Design in Onshape
+## Design Process in Onshape
 
-This was my first experience using parametric CAD software. At the beginning, I realized that CAD modelling is very different from normal drawing. Instead of only focusing on the appearance, I had to think about dimensions, constraints, and how each feature affects the next steps.
+### 1. Creating the Main Stick
+I started the model in Onshape by selecting the Top Plane and creating my first sketch. The main part of the accessory was the stick, so I began with a simple rectangular shape and added a pointed triangular tip at one end. The pointed shape helps the accessory slide through the hair more easily.
 
-I started my design in **Onshape** by selecting the **Top Plane** and creating my first sketch.
+While creating the sketch, I used dimensions to control the size and constraints to define the relationship between the lines. At first, some parts of the sketch were blue, meaning they were under-defined. After adding the necessary dimensions and constraints, the sketch became black, which showed that it was fully defined.
 
-The first part I created was the main stick because this was the functional part of the accessory. I started with a simple rectangle for the body. Then I modified the end of the shape by adding a triangular pointed tip.
+After finishing the sketch, I used Extrude → Add to give the model thickness and create the first 3D shape.
 
-The pointed shape was important because it helps the accessory slide through the hair more easily, similar to my original wooden version.
+[Image 3: First sketch of the stick with dimensions]
 
-While creating this sketch, I added **dimensions** to control the size and used **constraints** to define the relationships between the lines.
+[Image 4: Extruded stick model]
 
-At first, some parts of my sketch were still blue, meaning they were under-defined and could move. I adjusted the constraints and dimensions until the sketch became black, which showed that it was **fully constrained / fully defined**.
+### 2. Adding the Decorative House Shape
+Next, I created the decorative house shape using a rectangle for the body and a triangle for the roof. I placed it directly on top of the stick and made sure the shapes overlapped, so the house and the stick would become one connected printable body.
 
-After finishing the 2D sketch, I used:
+After completing the sketch, I used Extrude → Add again to merge the house shape with the existing model.
 
-**Extrude → Add**
+[Image 5: House sketch positioned on the stick]
 
-to give the model thickness and create the first 3D shape.
+[Image 6: House after Extrude Add]
 
-**Turning the idea into a 3D model was more difficult than I expected at the beginning, because every small line, point, and relation had to be controlled properly. I could not only think about the visual shape; I also had to make sure that the model would work as a real printable object.**
+### 3. Cleaning the Sketches
+During the design process, I had some issues with small gaps, extra lines, and profiles that were not completely closed. Because of this, Onshape could not always recognize the sketch correctly for extrusion.
 
-<p align="center">
-  <img src="images/stick-sketch.jpg" width="500" alt="First sketch of the stick with dimensions">
-</p>
+To fix this, I used the Trim Tool to remove unnecessary lines and clean the geometry. The tutorials were useful here because they helped me understand why clean sketches, closed profiles, and fully defined geometry are important before using tools like Extrude.
 
-<p align="center">
-  <em>Image 3: First sketch of the stick with dimensions</em>
-</p>
+[Image 7: Sketch correction / Trim Tool process]
 
-<p align="center">
-  <img src="images/extruded-stick.jpg" width="500" alt="Extruded stick model">
-</p>
+### 4. Adding and Engraving the Text
+To personalize the design, I added the word “Hope” to the front surface of the house using the Text Tool. I adjusted the size and position until it fit inside the house shape.
 
-<p align="center">
-  <em>Image 4: Extruded stick model</em>
-</p>
+At first, the text caused a problem because some letters were recognized as separate parts. I fixed this by editing the text sketch and checking the Parts list until the model appeared as only Part 1.
 
----
+After that, I used Extrude → Remove to engrave the word into the surface instead of placing it on top. I also checked the Merge Scope to make sure the cut affected the main body and did not create separate parts.
 
-## Designing the Decorative House Part
+[Image 8: Adding Hope text sketch]
 
-After completing the main stick, I started working on the decorative part of the accessory.
+[Image 9: Fully defined text and Part 1 result]
 
-To create the house shape, I made another sketch using simple geometric shapes:
+[Image 10: Extrude Remove settings]
 
-- a rectangle for the main body
-- a triangle for the roof
+[Image 11: Final engraved Hope design]
 
-I positioned the house directly on the stick and made sure that the shapes overlapped.
-
-This was an important step because I learned that objects can look connected visually but still be separate bodies in CAD. I wanted the decorative part to be supported by the stick and become one solid printable object.
-
-After completing the sketch, I used:
-
-**Extrude → Add**
-
-to add the house geometry to the existing model instead of creating a separate part.
-
-<p align="center">
-  <img src="images/house-sketch.jpg" width="500" alt="House sketch positioned on the stick">
-</p>
-
-<p align="center">
-  <em>Image 5: House sketch positioned on the stick</em>
-</p>
-
-<p align="center">
-  <img src="images/house-extrude.jpg" width="500" alt="House after Extrude Add">
-</p>
-
-<p align="center">
-  <em>Image 6: House after Extrude Add</em>
-</p>
-
----
-
-## Fixing Sketch Problems and Cleaning the Model
-
-During the design process, I learned that creating a clean sketch is very important for 3D printing.
-
-Some of my earlier sketches had small problems, such as unnecessary lines or points that were not completely connected. Because of these small gaps, Onshape could not always recognize the sketch as a closed profile for extrusion.
-
-To fix this, I went back and edited the sketches.
-
-I used the:
-
-**Trim Tool**
-
-to remove extra lines and unnecessary geometry. After cleaning the sketch, the profiles became easier to control and worked correctly with the Extrude feature.
-
-**I found the tutorials very useful because they explained why clean sketches, closed profiles, and fully defined geometry are important before using features like Extrude. The tutorials helped me understand the logic behind the tools instead of only copying the steps.**
-
-This step helped me understand why the tutorials focused so much on creating clean and fully constrained sketches. Even a very small open area in a sketch can create problems later, especially when the model is prepared for 3D printing.
-
-**One of the main challenges was finding and fixing small sketch problems that were not always visible at first. Sometimes the model looked correct, but because a profile was not completely closed or a line was unnecessary, the extrusion did not work as expected.**
-
-<p align="center">
-  <img src="images/trim-tool.jpg" width="500" alt="Sketch correction and Trim Tool process">
-</p>
-
-<p align="center">
-  <em>Image 7: Sketch correction / Trim Tool process</em>
-</p>
-
----
-
-## Adding the “Hope” Text
-
-After finishing the main shape, I added the word:
-
-**“Hope”**
-
-to the front of the house.
-
-I created a new sketch directly on the surface of the house and used the **Text Tool** in Onshape.
-
-I adjusted the size and position of the text until it fit inside the house.
-
-This step was more challenging than I expected. At first, after adding the text, I noticed that Onshape recognized some letters as separate parts. This meant that my final model was not one complete printable object.
-
-To solve this problem, I edited the text sketch and worked on the constraints until the text became fully defined. The sketch changed from blue to black, showing that the position and geometry were controlled.
-
-After correcting this, I checked the Parts list again and the complete model appeared as:
-
-**Part 1**
-
-This confirmed that the design was one connected object.
-
-<p align="center">
-  <img src="images/hope-text-sketch.jpg" width="500" alt="Adding Hope text sketch">
-</p>
-
-<p align="center">
-  <em>Image 8: Adding Hope text sketch</em>
-</p>
-
-<p align="center">
-  <img src="images/part-one.jpg" width="500" alt="Fully defined text and Part 1 result">
-</p>
-
-<p align="center">
-  <em>Image 9: Fully defined text and Part 1 result</em>
-</p>
-
----
-
-## Engraving the Text into the House
-
-I did not want the word to simply sit on top of the model. I wanted it to become part of the design by cutting it into the surface.
-
-For this step, I used:
-
-**Extrude → Remove**
-
-I selected the text regions and removed material from the house.
-
-I also checked the **Merge Scope** to make sure the Remove operation affected the main body and did not create new separate parts.
-
-After this step, the word **“Hope”** was engraved into the house while the whole hair accessory remained a single printable object.
-
-<p align="center">
-  <img src="images/extrude-remove.jpg" width="500" alt="Extrude Remove settings">
-</p>
-
-<p align="center">
-  <em>Image 10: Extrude Remove settings</em>
-</p>
-
-<p align="center">
-  <img src="images/final-engraved-hope.jpg" width="500" alt="Final engraved Hope design">
-</p>
-
-<p align="center">
-  <em>Image 11: Final engraved Hope design</em>
-</p>
-
----
 
 ## Preparing the Model for 3D Printing
 

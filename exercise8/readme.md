@@ -17,13 +17,9 @@ The goal of this project was to turn a simple everyday object into a functional 
 This project was also my first experience using Onshape for a complete 3D design process. Because of that, the exercise was not only about the final object, but also about understanding how sketches, dimensions, constraints, extrusion, and slicing work together.
 
 <p align="center">
-  <img src="images/inspiration.jpg" width="500" alt="Inspiration image or original wooden hair stick">
+  <img src="images/final01.jpg" width="45%" alt="Image 1">
+  <img src="images/final02.jpg" width="45%" alt="Image 2">
 </p>
-
-<p align="center">
-  <em>Image 1: Inspiration image / original wooden hair stick</em>
-</p>
-
 ---
 
 ## Motivation and Concept

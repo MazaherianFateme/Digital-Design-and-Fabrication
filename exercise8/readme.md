@@ -20,6 +20,7 @@ This project was also my first experience using Onshape for a complete 3D design
   <img src="images/final01.jpg" width="45%" alt="Image 1">
   <img src="images/final03.jpg" width="45%" alt="Image 2">
 </p>
+
 ---
 
 ## Motivation and Concept

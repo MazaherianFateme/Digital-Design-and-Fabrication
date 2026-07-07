@@ -148,14 +148,6 @@ I also found it important to check the printing setup carefully. The orientation
 
 Another important point was material choice. By replacing a wooden accessory with a more washable and durable 3D printed version, the object can last longer and become easier to maintain. For similar models, a longer-lasting design can reduce repeated replacements and therefore reduce material waste.
 
-<p align="center">
-  <img src="images/final-slicing-preview.jpg" width="500" alt="Final slicing preview or print preparation screenshot">
-</p>
-
-<p align="center">
-  <em>Image 14: Final slicing preview or print preparation screenshot</em>
-</p>
-
 ---
 
 ## Reflection and Conclusion
@@ -178,18 +170,3 @@ One important thing I learned is that choosing good reference points from the be
 
 In the end, I created a personalized hair accessory based on something I already use, while improving the material problem of my old wooden version.
 
-<p align="center">
-  <img src="images/final-printed-product.jpg" width="500" alt="Final printed product">
-</p>
-
-<p align="center">
-  <em>Image 15: Final printed product</em>
-</p>
-
-<p align="center">
-  <img src="images/final-object-in-use.jpg" width="500" alt="Final object in use">
-</p>
-
-<p align="center">
-  <em>Image 16: Final object in use</em>
-</p>

@@ -95,7 +95,7 @@ I made sure that:
 - unnecessary sketches and imported references were removed
 - the final model consisted of only one part
 
-This check was important because a model that is not one connected body can create problems during slicing and printing. If the design is prepared correctly before printing, there is a higher chance of getting a successful result on the first print. This also helps reduce failed prints, wasted filament, and unnecessary material waste.
+During the class and tutorials, I learned that this check is important because a model that is not one connected body can create problems during slicing and printing. If the design is prepared correctly before printing, there is a higher chance of getting a successful result on the first print. This also helps reduce failed prints, wasted filament, and unnecessary material waste.
 
 After checking everything, I exported the model as a:
 

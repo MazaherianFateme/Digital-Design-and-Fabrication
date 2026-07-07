@@ -18,7 +18,7 @@ This project was also my first experience using Onshape for a complete 3D design
 
 <p align="center">
   <img src="images/final01.jpg" width="45%" alt="Image 1">
-  <img src="images/final02.jpg" width="45%" alt="Image 2">
+  <img src="images/final03.jpg" width="45%" alt="Image 2">
 </p>
 ---
 

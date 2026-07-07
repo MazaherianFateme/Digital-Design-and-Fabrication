@@ -33,14 +33,10 @@ This problem gave me the idea to create my own 3D printed version. I wanted to m
 
 Another important point for me was durability. If a model lasts longer, it does not need to be replaced as quickly. For similar objects, this can reduce the need to use and replace wooden versions repeatedly, which means less wood is wasted over time.
 
-For the decorative part, I used a small house shape and added the word **“Hope.”** This concept had a personal meaning for me. While working on this project, I was missing my family and home, so the house became a small symbol of that feeling. The word “Hope” represents my hope of seeing them again soon.
+The visual concept of the design also had a personal meaning for me. I included a small house shape and the word “Hope” because I was missing my family and home while working on this project. The house represents home, and “Hope” represents my hope of seeing them again soon.
 
 <p align="center">
-  <img src="images/concept-sketch.jpg" width="500" alt="Concept sketch or reference idea">
-</p>
-
-<p align="center">
-  <em>Image 2: Concept sketch or reference idea</em>
+  <img src="images/final03.jpg" width="500" alt="Concept sketch or reference idea">
 </p>
 
 ---

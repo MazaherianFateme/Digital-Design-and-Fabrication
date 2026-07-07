@@ -128,19 +128,12 @@ The support helped the overhanging areas print correctly, and the brim improved 
 Finally, I checked the layer preview, estimated printing time, support structures, and filament usage before saving the final 3MF project file.
 
 <p align="center">
-  <img src="images/qidi-studio.jpg" width="500" alt="Model imported into QIDI Studio">
+  <img src="images/P01.png" width="500" alt="Model imported into QIDI Studio">
 </p>
 
-<p align="center">
-  <em>Image 12: Model imported into QIDI Studio</em>
-</p>
 
 <p align="center">
-  <img src="images/support-preview.jpg" width="500" alt="Support and slicing preview">
-</p>
-
-<p align="center">
-  <em>Image 13: Support and slicing preview</em>
+  <img src="images/P02.png" width="500" alt="Support and slicing preview">
 </p>
 
 ---

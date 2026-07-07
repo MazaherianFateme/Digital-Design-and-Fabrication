@@ -142,31 +142,18 @@ Finally, I checked the layer preview, estimated printing time, support structure
 
 One of the most important things I learned during this exercise was that 3D printing does not start at the printer. A successful print starts much earlier, during the design process.
 
-If the sketch is not fully defined, if the profiles are not closed, or if the model is made of separate bodies by mistake, the final print can fail or the slicing process can become more complicated.
+During the project, I realized that small details in CAD modelling have a big impact on the final result. Fully defined sketches, closed profiles, and creating one connected solid body are important steps to make sure the model can be sliced and printed correctly.
 
-I also found it important to check the printing setup carefully. The orientation of the model, the supports, the brim, and the layer preview all affect the final result. Correctly preparing the printing part is important because it increases the chance of getting a good result from the first print. This means less wasted time, less wasted filament, and fewer unnecessary failed prints.
+I also learned that preparing the printing settings carefully is part of the design process. Checking the orientation, supports, and layer preview before printing can increase the chance of a successful first print and reduce wasted time and material.
 
-Another important point was material choice. By replacing a wooden accessory with a more washable and durable 3D printed version, the object can last longer and become easier to maintain. For similar models, a longer-lasting design can reduce repeated replacements and therefore reduce material waste.
+One thing I would improve in future projects is planning the model structure better from the beginning, for example by using stronger reference points to make aligning and connecting different features easier.
 
 ---
 
 ## Reflection and Conclusion
 
-Overall, this exercise was a much bigger learning process than I expected. Turning an idea into a printable object was not only about creating a nice-looking model; it also had to work technically.
+Overall, this project helped me understand how sketches, dimensions, constraints, and features like Trim, Extrude Add, and Extrude Remove work together to create a printable model.
 
-**At first, I thought the difficult part would mainly be designing the shape, but I realized that the technical preparation was just as important. The model had to be clean, connected, and correctly prepared so that it could be printed successfully.**
+It was interesting to see how a simple idea from everyday life could become a real object through digital design and fabrication.
 
-During this project, I learned how important it is to:
-
-- fully define sketches
-- use dimensions and constraints correctly
-- create closed sketch profiles
-- clean sketches using Trim
-- understand the difference between separate parts and one solid body
-- use Extrude Add and Extrude Remove correctly
-- check the model before sending it to the printer
-
-One important thing I learned is that choosing good reference points from the beginning makes the modelling process easier. Designing around a central reference helps align different sketches and makes connections between parts easier to control.
-
-In the end, I created a personalized hair accessory based on something I already use, while improving the material problem of my old wooden version.
-
+In the end, I created a personalized hair accessory based on something I already use, while improving the problems I experienced with my previous wooden version. This project helped me understand the complete workflow from an idea to a finished 3D printable object.

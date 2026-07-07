@@ -56,7 +56,7 @@ Next, I created the decorative house shape using a rectangle for the body and a 
 After completing the sketch, I used Extrude → Add again to merge the house shape with the existing model.
 
 <p align="center">
-  <img src="images/S02.jpg" width="500" alt="Concept sketch or reference idea">
+  <img src="images/S02.png" width="500" alt="Concept sketch or reference idea">
 </p>
 
 
@@ -72,14 +72,14 @@ To personalize the design, I added the word “Hope” to the front surface of t
 At first, the text caused a problem because some letters were recognized as separate parts. I fixed this by editing the text sketch and checking the Parts list until the model appeared as only Part 1.
 
 <p align="center">
-  <img src="images/Sproblems.jpg" width="500" alt="Concept sketch or reference idea">
+  <img src="images/Sproblems.png" width="500" alt="Concept sketch or reference idea">
 </p>
 
 
 After that, I used Extrude → Remove to engrave the word into the surface instead of placing it on top. I also checked the Merge Scope to make sure the cut affected the main body and did not create separate parts.
 
 <p align="center">
-  <img src="images/Sfinal.jpg" width="500" alt="Concept sketch or reference idea">
+  <img src="images/Sfinal.png" width="500" alt="Concept sketch or reference idea">
 </p>
 
 ---

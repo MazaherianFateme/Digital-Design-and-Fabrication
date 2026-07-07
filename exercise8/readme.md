@@ -25,11 +25,9 @@ This project was also my first experience using Onshape for a complete 3D design
 
 ## Motivation and Concept
 
-I chose to design a hair accessory because it is something I actually use in my daily life. Especially during warm weather, I often prefer putting my hair up quickly, and I have always liked this type of accessory because it is simple, lightweight, easy to carry, and does not take much space.
+I chose to design a hair accessory because it is something I actually use in my daily life. I already owned a similar wooden hair stick and enjoyed using it, but since I live in Germany, where the weather can be quite humid, wood is not always practical for everyday use.
 
-I already owned a similar wooden hair stick and enjoyed using it, but after some time I noticed a problem with the material. Since I live in Germany, where the weather can be quite humid, wood is not always practical for everyday use.
-
-Hair accessories are directly in contact with hair, water, and products such as oils or conditioners, so they need to be cleaned regularly. However, wood absorbs moisture and needs a long time to dry after washing. Over time, this can damage the material, change its appearance, and even cause mold.
+Hair accessories are directly in contact with hair, so they need to be cleaned regularly. However, wood absorbs moisture and needs a long time to dry after washing. Over time, this can damage the material, change its appearance, and even cause mold.
 
 This problem gave me the idea to create my own 3D printed version. I wanted to make something that keeps the same functionality but uses a material that is easier to wash, dries faster, and lasts longer.
 

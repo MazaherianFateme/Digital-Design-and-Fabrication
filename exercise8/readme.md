@@ -64,7 +64,9 @@ After completing the sketch, I used Extrude → Add again to merge the house sha
 ### Cleaning the Sketches
 During the design process, I had some issues with small gaps, extra lines, and profiles that were not completely closed. Because of this, Onshape could not always recognize the sketch correctly for extrusion.
 
-To fix this, I used the Trim Tool to remove unnecessary lines and clean the geometry. The tutorials were useful here because they helped me understand why clean sketches, closed profiles, and fully defined geometry are important before using tools like Extrude.
+To fix this, I used the Trim Tool to remove unnecessary lines and clean the geometry.
+
+The tutorials were helpful during this process because they explained the basic CAD workflow step by step. However, while doing the exercise myself, I faced more challenges because I had to apply the steps to my own design and solve unexpected problems. Having visual tutorials as a reference helped me understand the mistakes, fix issues such as open sketches and constraints, and make sure that separate features became one connected body.
 
 ### Adding and Engraving the Text
 To personalize the design, I added the word “Hope” to the front surface of the house using the Text Tool. I adjusted the size and position until it fit inside the house shape.

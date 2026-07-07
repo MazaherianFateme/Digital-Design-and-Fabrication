@@ -94,6 +94,7 @@ After that, I used Extrude → Remove to engrave the word into the surface inste
 
 [Image 11: Final engraved Hope design]
 
+---
 
 ## Preparing the Model for 3D Printing
 
@@ -176,7 +177,7 @@ Another important point was material choice. By replacing a wooden accessory wit
 
 ---
 
-## Conclusion
+## Reflection and Conclusion
 
 Overall, this exercise was a much bigger learning process than I expected. Turning an idea into a printable object was not only about creating a nice-looking model; it also had to work technically.
 
